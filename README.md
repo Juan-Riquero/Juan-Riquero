@@ -1,4 +1,3 @@
-[![MasterHead](https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/03/tenor.gif)]
 <h1 align="center">Aloha 👋 I´m Juan</h1>
 <h3 align="center">🌍 A Fullstack Developer from Argentina.</h3>
 
